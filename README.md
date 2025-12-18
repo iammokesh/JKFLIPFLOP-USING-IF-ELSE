@@ -51,3 +51,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![jk w](https://github.com/user-attachments/assets/8c02a06f-5d82-4889-93ea-d5feed5d1173)
 
 **RESULTS**
+Thus the JK flipflop is implemented and verified.
